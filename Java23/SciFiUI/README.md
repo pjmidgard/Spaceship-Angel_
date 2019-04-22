@@ -7,8 +7,7 @@ Student Number: C17706201
 Fork this repository and use it a starter project for your assignment
 
 # Description of the assignment#
-I have written software that let you fly on the space it have stars, ships, 
-radar, galaxies a circle and buttons.
+I have written software that let you fly on the space it has stars, ship, radar, a circle, audio, galaxies, and buttons.
 
 
 # Instructions Just look!
