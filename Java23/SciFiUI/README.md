@@ -76,7 +76,7 @@ public void render()
 
 This is a youtube video:
 
-[![YouTube](http://www.youtube.com/watch?v=xqJ6iatLnG0)
+www.youtube.com/watch?v=xqJ6iatLnG0
 
 
 
