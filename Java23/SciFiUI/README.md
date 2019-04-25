@@ -76,7 +76,7 @@ public void render()
 
 This is a youtube video:
 
-www.youtube.com/watch?v=xqJ6iatLnG0
+http://www.youtube.com/watch?v=xqJ6iatLnG0
 
 
 
