@@ -11,8 +11,14 @@ I have written software that let you fly on the space it has stars, ship, radar,
 
 
 # Instructions Just look!
+If you click M: play music
+If you click X: close software
 
 # How it works
+Everything dancing
+Circling
+Moving
+Clicking
 
 # Markdown Tutorial
 
@@ -22,6 +28,7 @@ This is a bulleted list
 
 - Main.java
 - MovingCircle.java
+- Product.java
 - Radar.java
 - stars.java
 - UI.java
@@ -30,6 +37,7 @@ This is a numbered list
 
 - Main.java
 - MovingCircle.java
+- Product.java
 - Radar.java
 - stars.java
 - UI.java
